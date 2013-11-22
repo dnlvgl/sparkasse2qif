@@ -1,0 +1,12 @@
+# virtualenv
+.Python
+bin
+lib
+include
+
+# python
+*.pyc
+
+# files
+*.qif
+*.csv
